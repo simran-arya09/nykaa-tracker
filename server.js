@@ -19,7 +19,7 @@ app.use((req, res, next) => {
 // MongoDB
 const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://simranarya8989_db_user:mpRLOYsjnHE66udZ@cluster0.lrffw9l.mongodb.net/nykaa';
 
-mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+   mongoose.connect(MONGO_URI)
   .then(() => console.log('✅ MongoDB Connected'))
   .catch(err => console.error('❌ MongoDB Error:', err));
 
