@@ -113,7 +113,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 For questions or issues, please open an issue on GitHub or contact the maintainer.
 
 ---
-<img width="1917" height="1079" alt="Screenshot 2026-05-06 174540" src="https://github.com/user-attachments/assets/dd8c2491-26b9-4b39-9cd0-61469a70d288" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49673556-ed12-41d5-8ad6-a2bcbaff18cc" />
+
+<img width="1913" height="887" alt="image" src="https://github.com/user-attachments/assets/ce1e1b64-42f4-41ad-b236-951e2e7e045e" />
 
 <img width="1915" height="1079" alt="Screenshot 2026-05-06 174645" src="https://github.com/user-attachments/assets/07bc8b30-9b35-47af-96d4-3afdb76391a2" />
 
