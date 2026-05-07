@@ -2,7 +2,7 @@
 
 A full-stack application for tracking and managing Nykaa products, prices, and inventory.
 Visit the site:
-https://a77c58a7-651f-4cd5-aba6-201a4e6b5902-00-1hkijpxpxg3fn.pike.replit.dev/
+
 ## 📋 Table of Contents
 
 - [Features](#features)
