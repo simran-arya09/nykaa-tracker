@@ -117,6 +117,7 @@ For questions or issues, please open an issue on GitHub or contact the maintaine
 
 <img width="1915" height="1079" alt="Screenshot 2026-05-06 174645" src="https://github.com/user-attachments/assets/07bc8b30-9b35-47af-96d4-3afdb76391a2" />
 
+<img width="840" height="834" alt="image" src="https://github.com/user-attachments/assets/07d5d03e-0c4b-4bf4-b782-a3702cc07635" />
 
 
 
